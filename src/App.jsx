@@ -8,14 +8,14 @@ export default function App() {
     <>
       <Header/>
       <main>
-        <div className='course_cover'>
+        <div className='course__cover'>
           <img 
             src={reactLogo} 
-            className='react_svg' 
-            alt=''
+            className='react__svg' 
+            alt='react logo'
           />
-          <h1 className='course_title'>Ready to React</h1>
-          <p className='course_desc'>The UWCS course on the ultimate web dev library</p>
+          <h1 className='course__title'>Ready to React</h1>
+          <p className='course__desc'>The UWCS course on the ultimate web dev library</p>
           <div className='course__links'>
             <a 
               className='course__link course__link__clr' 
@@ -38,12 +38,12 @@ export default function App() {
           <CourseCard 
             title={"Session 2"}
             desc={"Learn how to render dyanmic lists, manage and understand keys, and use controlled forms in React. Build a flashcard app to put these concepts to practice and gain more experience on state management by creating interactive components."}
-            tags={["Lists", "Keys", "Event Handlers", "Controlled Forms"]}
+            tags={["Lists", "Keys", "Handlers", "Controlled Forms"]}
           />
           <CourseCard 
             title={"Session 3"}
             desc={"Learn how to handle side effects and data fetching in React during this two-part session. In part 1, you will gain a clear understanding of side effects, the dependency array, and how it relates to data fetching. We begin building the Wordle clone to apply these concepts."}
-            tags={["Side effects", "Dependency Array", "Data fetching"]}
+            tags={["Side effects", "Dependencies", "Data fetching"]}
           />
           <CourseCard 
             title={"Session 4"}
