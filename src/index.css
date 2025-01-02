@@ -170,7 +170,7 @@ header {
   font-weight: 500;
 }
 
-.card__socials {
+.card__links {
   display: flex;
   justify-content: space-between;
   align-items: center;

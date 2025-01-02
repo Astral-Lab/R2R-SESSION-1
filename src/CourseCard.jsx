@@ -6,10 +6,10 @@ export default function CourseCard({ title, desc, keywords, url }) {
     
     return (
         <div className='card__container'>
-            <div className='card__socials'>
-                <FaReact size={'40px'} color='#00D8FF'/>
+            <div className='card__links'>
+                <FaReact size={'40px'} color={'#00D8FF'}/>
                 <a href={url}>
-                    <IoIosLink size={'32px'} color='#53687e'/>
+                    <IoIosLink size={'32px'} color={'#53687E'}/>
                 </a>
             </div>
             <h2 className='card__title'>{title}</h2>
@@ -18,4 +18,3 @@ export default function CourseCard({ title, desc, keywords, url }) {
         </div>
     )
 }
-
