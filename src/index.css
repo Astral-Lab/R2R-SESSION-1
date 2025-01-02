@@ -66,6 +66,10 @@ a:hover {
   margin-bottom: 16px;
 }
 
+.react__svg:hover {
+  cursor: pointer;
+}
+
 .uwcs__logo {
   width: 20px;
 }
