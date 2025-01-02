@@ -10,9 +10,9 @@ export default function App() {
 
   const handleClick = () => {
     if(count === 3) {
-      return
+      return;
     }
-    
+
     setCount(count + 1);
   }
 
