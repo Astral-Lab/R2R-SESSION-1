@@ -3,12 +3,17 @@ import reactLogo from './assets/react.svg'
 import CourseCard from './CourseCard'
 import Header from './Header'
 import Footer from './Footer'
+import angularLogo from './assets/angular.png'
 
 export default function App() {
-  const [size, setSize] = useState(1);
+  const [count, setCount] = useState(0);
 
   const handleClick = () => {
-    setSize(size + 0.1);
+    if(count === 3) {
+      return
+    }
+    
+    setCount(count + 1);
   }
 
   return (
@@ -17,13 +22,12 @@ export default function App() {
       <main>
         <div className='course__cover'>
           <img 
-            src={reactLogo} 
-            style={{ transform: `scale(${size})` }}
+            src={count === 3 ? angularLogo : reactLogo} 
             onClick={handleClick}
             className='react__svg' 
             alt='react logo'
           />
-          <h1 className='course__title'>Ready to React</h1>
+          <h1 className='course__title'>Ready to {count === 3 ? 'Angular' : 'React'}</h1>
           <p className='course__desc'>The UWCS course on the ultimate web dev library</p>
           <div className='course__links'>
             <a className='course__link course__link__clr' href='https://discord.gg/5v35Sjds'>UWCS Discord</a>

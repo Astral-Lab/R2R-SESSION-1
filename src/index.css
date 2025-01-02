@@ -64,6 +64,8 @@ a:hover {
 .react__svg {
   width: 100px;
   margin-bottom: 16px;
+  aspect-ratio: 120 / 106.86;
+  object-fit: contain;
 }
 
 .react__svg:hover {
