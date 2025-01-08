@@ -11,3 +11,8 @@ To get started with the React course, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Astral-Lab/R2R-SESSION-1.git
+
+2. **Install dependencies**:
+   ```bash
+   cd react-course-session-x
+   npm install
