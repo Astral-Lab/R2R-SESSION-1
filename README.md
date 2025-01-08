@@ -13,10 +13,15 @@ To get started with the React course, follow these steps:
    ```bash
    git clone https://github.com/Astral-Lab/R2R-SESSION-1.git
 
-3. **Install dependencies**:
+2. **Install dependencies**:
    
    ```bash
    npm install
+
+3. **Run the program**:
+   
+   ```bash
+   npm run dev
 
 ### ❓ Issues and Support
 
