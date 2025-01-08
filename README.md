@@ -17,3 +17,7 @@ To get started with the React course, follow these steps:
    
    ```bash
    npm install
+
+### ❓ Issues and Support
+
+If you run into any issues or have questions, feel free to reach out on the UWCS Discord server.
