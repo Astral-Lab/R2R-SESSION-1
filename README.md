@@ -10,7 +10,8 @@ Before you begin, ensure you have the following installed on your system:
 * Node.js (LTS version)
 * npm (usually comes with Node.js)
 
-If you haven't installed Node.js yet, you can download it from here.
+If you haven't installed Node.js yet, you can download it from [here](https://nodejs.org/)
+.
 
 ### 🚀 Getting Started
 
