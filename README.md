@@ -32,9 +32,5 @@ To get started with the React course, follow these steps:
    ```bash
    npm run dev
 
-### 📢 Stay Updated
-To stay updated on the course, be sure to join the UWCS Discord [here](https://discord.gg/nq4aDAct3S) or Instagram [here](https://www.instagram.com/warwickcompsoc/).
-
-### ❓ Issues and Support
-
-If you run into any issues or have questions, feel free to reach out on the UWCS Discord server.
+### 📢 Stay Updated & Support
+To stay updated on the course or ask any questions, be sure to join the UWCS Discord [here](https://discord.gg/nq4aDAct3S).
