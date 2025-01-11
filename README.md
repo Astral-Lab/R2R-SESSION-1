@@ -4,6 +4,14 @@ Welcome to the **React Course** repository for **Session 1**! This repository co
 
 ---
 
+### 📝 Prerequisites
+Before you begin, ensure you have the following installed on your system:
+
+* Node.js (LTS version)
+* npm (usually comes with Node.js)
+
+If you haven't installed Node.js yet, you can download it from here.
+
 ### 🚀 Getting Started
 
 To get started with the React course, follow these steps:
