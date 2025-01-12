@@ -13,9 +13,15 @@ Before you begin, ensure you have the following installed on your system:
 If you haven't installed Node.js yet, you can download it from [here](https://nodejs.org/)
 .
 
-### 🚀 Getting Started
+## View the Project in StackBlitz (Online)
 
-To get started with the React course, follow these steps:
+You can quickly start editing the project by clicking the link below:
+
+[Open Project in StackBlitz](https://stackblitz.com/github/username/repository-name)
+
+### 🚀 Getting Started (Locally)
+
+To get started with the React course locally, follow these steps:
 
 1. **Clone the repository**:
    
