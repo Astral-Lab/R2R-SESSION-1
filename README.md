@@ -15,9 +15,7 @@ If you haven't installed Node.js yet, you can download it from [here](https://no
 
 ## View the Project in StackBlitz (Online)
 
-You can quickly start editing the project by clicking the link below:
-
-[Open Project in StackBlitz](https://stackblitz.com/github/username/repository-name)
+You can quickly start editing the project by clicking [here](https://stackblitz.com/~/github.com/Astral-Lab/R2R-SESSION-1/tree/template?file=src/App.jsx).
 
 ### 🚀 Getting Started (Locally)
 
