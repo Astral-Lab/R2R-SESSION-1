@@ -43,7 +43,7 @@ export default function App() {
           />
           <CourseCard 
             title={"Session 2"}
-            desc={"Learn how to render dyanmic lists, manage and understand keys, and use controlled forms in React. Build a flashcard app to put these concepts to practice and gain more experience on state management by creating interactive components."}
+            desc={"Learn how to render dynamic lists, manage and understand keys, and use controlled forms in React. Build a flashcard app to put these concepts to practice and gain more experience on state management by creating interactive components."}
             keywords={["Lists", "Keys", "Handlers", "Controlled Forms"]}
             url={"https://github.com/Astral-Lab/R2R-SESSION-2"}
           />
